@@ -1,0 +1,11 @@
+Gene,Function,Pathway,GWAS_Hit,Expression_Fold_Change,Size,Color
+VDR,Vitamin D receptor,Signaling,No,1.0,20.0,#95a5a6
+GC,Vitamin D binding protein,Transport,Yes,1.5,30.0,#e74c3c
+CYP27B1,1α-hydroxylase,Activation,No,0.8,16.0,#95a5a6
+CYP24A1,24-hydroxylase,Degradation,Yes,1.2,24.0,#e74c3c
+CYP2R1,25-hydroxylase,Synthesis,Yes,1.1,22.0,#e74c3c
+CYP27A1,27-hydroxylase,Synthesis,No,0.9,18.0,#95a5a6
+RXRA,Retinoid X receptor,Signaling,No,1.0,20.0,#95a5a6
+CUBN,Cubilin receptor,Reabsorption,No,0.85,17.0,#95a5a6
+LRP2,Megalin receptor,Reabsorption,No,0.88,17.6,#95a5a6
+DHCR7,7-dehydrocholesterol reductase,Synthesis,Yes,1.15,23.0,#e74c3c

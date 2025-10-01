@@ -1,0 +1,7 @@
+SNP,Gene,Trait,Population,Effect_Size,P_Value,Sample_Size,Study
+rs146759773,Novel (African-specific),25OHD,African,-0.15,1.2e-08,8306,UK Biobank
+rs7041,GC,VDBP,African American,0.61,1.4e-48,9536,SCCS+UKB
+rs4588,GC,25OHD,African American,-0.11,1.5e-13,9536,SCCS+UKB
+rs842998,GC,VDBP,African American,0.45,5.2e-35,9536,SCCS+UKB
+rs8427873,Near GC,VDBP,African American,0.38,8.7e-28,9536,SCCS+UKB
+rs11731496,GC-NPFFR2,VDBP,African American,0.32,3.4e-22,9536,SCCS+UKB

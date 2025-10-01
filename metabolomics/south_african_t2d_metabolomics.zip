@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>s3.amazonaws.com</Endpoint><Bucket>md-datasets-cache-zipfiles-prod</Bucket><RequestId>WVAFMQC66738JJQN</RequestId><HostId>Nld2TVShslrH4P+I8omSqFKIveFH6nLu9trRjL9n/sDED4Jr/48q0hwdxPt5yysmlLwZgGkGjewHl0IOmZgn/OF50MVq/5MW</HostId></Error>

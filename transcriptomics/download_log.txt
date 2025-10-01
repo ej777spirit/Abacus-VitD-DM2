@@ -1,0 +1,7 @@
+==============================================
+GSE124076 Data Download and Analysis
+==============================================
+
+Error in library(GEOquery) : there is no package called ‘GEOquery’
+Calls: suppressPackageStartupMessages -> withCallingHandlers -> library
+Execution halted

@@ -22,3 +22,112 @@ Installing genomics packages...
 Installing genetics ...
 also installing the dependencies ‘combinat’, ‘gdata’, ‘gtools’, ‘mvtnorm’
 
+Installing GenABEL ...
+Installing qqman ...
+also installing the dependency ‘calibrate’
+
+Installing SNPassoc ...
+Warning: dependency ‘rms’ is not available
+also installing the dependencies ‘pillar’, ‘arsenal’, ‘dplyr’, ‘purrr’, ‘stringr’, ‘tibble’, ‘tidyselect’, ‘vctrs’, ‘haplo.stats’, ‘tidyr’, ‘plyr’, ‘ggplot2’, ‘poisbinom’
+
+Installing gap ...
+also installing the dependencies ‘stringr’, ‘pillar’, ‘tibble’, ‘tidyselect’, ‘vctrs’, ‘tidyr’, ‘purrr’, ‘rbibutils’, ‘gap.datasets’, ‘dplyr’, ‘ggplot2’, ‘plotly’, ‘Rdpack’
+
+Installing snpStats ...
+There were 25 warnings (use warnings() to see them)
+
+Installing BiocManager...
+
+Installing Bioconductor packages...
+Installing Biobase ...
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.16 (BiocManager 1.30.26), R 4.2.2 Patched (2022-11-10
+  r83330)
+Installing package(s) 'BiocVersion', 'Biobase'
+also installing the dependency ‘BiocGenerics’
+
+Installing GWASTools ...
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.16 (BiocManager 1.30.26), R 4.2.2 Patched (2022-11-10
+  r83330)
+Installing package(s) 'GWASTools'
+Warning: dependency ‘Matrix’ is not available
+also installing the dependencies ‘progress’, ‘minqa’, ‘nloptr’, ‘reformulas’, ‘ucminf’, ‘numDeriv’, ‘vroom’, ‘iterators’, ‘lme4’, ‘ordinal’, ‘forcats’, ‘hms’, ‘readr’, ‘purrr’, ‘stringr’, ‘tibble’, ‘pillar’, ‘tidyselect’, ‘foreach’, ‘shape’, ‘RcppEigen’, ‘pan’, ‘jomo’, ‘haven’, ‘vctrs’, ‘broom’, ‘dplyr’, ‘glmnet’, ‘mitml’, ‘tidyr’, ‘operator.tools’, ‘SparseM’, ‘MatrixModels’, ‘blob’, ‘plogr’, ‘zoo’, ‘mice’, ‘formula.tools’, ‘quantreg’, ‘gdsfmt’, ‘RSQLite’, ‘GWASExactHW’, ‘DNAcopy’, ‘sandwich’, ‘lmtest’, ‘logistf’, ‘quantsmooth’
+
+Installing VariantAnnotation ...
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.16 (BiocManager 1.30.26), R 4.2.2 Patched (2022-11-10
+  r83330)
+Installing package(s) 'VariantAnnotation'
+also installing the dependencies ‘formatR’, ‘pillar’, ‘purrr’, ‘tibble’, ‘tidyr’, ‘tidyselect’, ‘lambda.r’, ‘futile.options’, ‘vctrs’, ‘hms’, ‘dbplyr’, ‘dplyr’, ‘filelock’, ‘futile.logger’, ‘snow’, ‘BH’, ‘blob’, ‘png’, ‘rjson’, ‘progress’, ‘stringr’, ‘BiocFileCache’, ‘matrixStats’, ‘RCurl’, ‘GenomeInfoDbData’, ‘DelayedArray’, ‘bitops’, ‘BiocParallel’, ‘RSQLite’, ‘KEGGREST’, ‘XML’, ‘GenomicAlignments’, ‘BiocIO’, ‘restfulr’, ‘biomaRt’, ‘MatrixGenerics’, ‘GenomeInfoDb’, ‘GenomicRanges’, ‘SummarizedExperiment’, ‘Rsamtools’, ‘zlibbioc’, ‘S4Vectors’, ‘IRanges’, ‘XVector’, ‘Biostrings’, ‘AnnotationDbi’, ‘rtracklayer’, ‘BSgenome’, ‘GenomicFeatures’, ‘Rhtslib’
+
+
+Attaching package: ‘BiocGenerics’
+
+The following objects are masked from ‘package:stats’:
+
+    IQR, mad, sd, var, xtabs
+
+The following objects are masked from ‘package:base’:
+
+    Filter, Find, Map, Position, Reduce, anyDuplicated, aperm, append,
+    as.data.frame, basename, cbind, colnames, dirname, do.call,
+    duplicated, eval, evalq, get, grep, grepl, intersect, is.unsorted,
+    lapply, mapply, match, mget, order, paste, pmax, pmax.int, pmin,
+    pmin.int, rank, rbind, rownames, sapply, setdiff, sort, table,
+    tapply, union, unique, unsplit, which.max, which.min
+
+
+Attaching package: ‘S4Vectors’
+
+The following objects are masked from ‘package:data.table’:
+
+    first, second
+
+The following objects are masked from ‘package:base’:
+
+    I, expand.grid, unname
+
+
+Attaching package: ‘IRanges’
+
+The following object is masked from ‘package:data.table’:
+
+    shift
+
+GenomicRanges already installed.
+Installing biomaRt ...
+'getOption("repos")' replaces Bioconductor standard repositories, see
+'help("repositories", package = "BiocManager")' for details.
+Replacement repositories:
+    CRAN: https://cloud.r-project.org
+Bioconductor version 3.16 (BiocManager 1.30.26), R 4.2.2 Patched (2022-11-10
+  r83330)
+Installing package(s) 'biomaRt'
+also installing the dependencies ‘blob’, ‘pillar’, ‘purrr’, ‘tibble’, ‘tidyr’, ‘tidyselect’, ‘RSQLite’, ‘hms’, ‘vctrs’, ‘dbplyr’, ‘dplyr’, ‘AnnotationDbi’, ‘progress’, ‘stringr’, ‘BiocFileCache’
+
+There were 50 or more warnings (use warnings() to see the first 50)
+
+Installing utility packages...
+knitr already installed.
+rmarkdown already installed.
+Installing DT ...
+htmltools already installed.
+
+
+=== Installation Summary ===
+Essential packages: Installed
+Genomics packages: Partially installed (some may require special setup)
+Bioconductor packages: Installed
+Utility packages: Installed
+
+R environment is ready for genomic analysis!
